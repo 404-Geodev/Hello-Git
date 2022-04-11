@@ -16,4 +16,3 @@ shioo/README.md
 6. `push`하기
 7. `main` branch에 merge하는 Pull Request 올리기
 
-우와 신기하다
